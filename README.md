@@ -45,9 +45,12 @@ I enjoy combining creative design thinking with technical development to create 
 
 ### 🎨 UI/UX Design & Creative Tools
 
+
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,canva" />
+  <img src="https://skillicons.dev/icons?i=figma" height="45" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="45" />
 </p>
+
 
 - UI/UX Design
 - Wireframing & Prototyping
