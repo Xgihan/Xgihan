@@ -47,8 +47,7 @@ I'm an aspiring UI/UX Designer and Developer from Sri Lanka, passionate about cr
 
 ### 📫 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN_URL
+- LinkedIn: www.linkedin.com/in/gihan-maduranga-625142306
 - Behance: https://www.behance.net/gihanmaduranga2
-- Portfolio: YOUR_PORTFOLIO_URL
-- Email: YOUR_EMAIL
+- Email: www.gihanmaduranga7878@gmail.com
 
