@@ -42,23 +42,21 @@ I enjoy combining creative design thinking with technical development to create 
 
 ## 🛠️ Skills & Technologies
 
-### 🎨 UI/UX Design
+
+### 🎨 UI/UX Design & Creative Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+  <img src="https://skillicons.dev/icons?i=figma,canva" />
 </p>
 
-- User Interface Design
-- User Experience Design
+- UI/UX Design
 - Wireframing & Prototyping
+- User Flows & User Journeys
 - Responsive Web Design
 - Design Systems & Components
+- AI-Assisted Design Workflows
+- AI-Powered Design Exploration
 
-### 💻 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
 
 ### ⚙️ Backend Development & Database
 
@@ -128,18 +126,6 @@ A modern travel website landing page design created using Figma.
 
 🎨 **[Explore My Behance Portfolio](https://www.behance.net/gihanmaduranga2)**
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Xgihan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xgihan&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Xgihan&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
