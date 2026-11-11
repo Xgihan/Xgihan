@@ -1,53 +1,168 @@
 
-# Hi, I'm Gihan Maduranga 👋
+<!-- ==================== HEADER ==================== -->
 
-### UI/UX Designer | Frontend Developer | Aspiring Full-Stack Developer
+<h1 align="center">Hi 👋, I'm Gihan Maduranga</h1>
 
-I'm an aspiring UI/UX Designer and Developer from Sri Lanka, passionate about creating modern, user-friendly digital experiences.
+<h3 align="center">
+  UI/UX Designer | Frontend Developer | Aspiring Full-Stack Developer
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6D5DFB&center=true&vCenter=true&width=600&lines=Designing+Modern+Digital+Experiences;Building+User-Friendly+Web+Applications;Exploring+AI-Powered+Development;Always+Learning+and+Creating" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Xgihan">
+    <img src="https://img.shields.io/badge/GitHub-Xgihan-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.behance.net/gihanmaduranga2">
+    <img src="https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance" />
+  </a>
+  <a href="https://www.linkedin.com/in/gihan-maduranga-625142306">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm Gihan Maduranga, an HNDIT student at SLIATE, Sri Lanka, passionate about UI/UX Design and Web Development.
+
+I enjoy combining creative design thinking with technical development to create modern, responsive, and user-friendly digital experiences.
 
 - 🎨 Interested in UI/UX Design and Product Design
-- 💻 Learning Full-Stack Web Development
-- 🚀 Building practical web applications
-- 🤖 Exploring AI-powered development tools
-- 🎓 HNDIT Student at SLIATE
+- 💻 Learning and building with React.js and JavaScript
+- 🚀 Experienced in developing academic full-stack projects
+- 🤖 Exploring AI-powered tools and development workflows
+- 🧩 Interested in solving real-world problems through technology
+- 📚 Always learning new technologies and improving my skills
 
-### 🛠️ Technologies & Tools
+---
 
-**Design**
-- Figma
-- Canva
+## 🛠️ Skills & Technologies
 
-**Frontend**
-- HTML5, CSS3, JavaScript
-- React.js
+### 🎨 UI/UX Design
 
-**Backend**
-- Node.js, Express.js
-- MySQL
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+</p>
 
-**Tools**
-- Git & GitHub
-- VS Code
-- AI Development Tools
+- User Interface Design
+- User Experience Design
+- Wireframing & Prototyping
+- Responsive Web Design
+- Design Systems & Components
 
-### 🚀 Featured Projects
+### 💻 Frontend Development
 
-**LKworkers.lk**
-- Full-Stack Academic Project
-- React.js, Node.js, Express.js, MySQL
-- Redesigned as a separate UI/UX portfolio project.
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
-**Privault – Security App**
-- UI/UX Design Concept
-- Secure and user-friendly interface design.
+### ⚙️ Backend Development & Database
 
-**Travel Website**
-- Website Landing Page Design
-- Figma
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
+</p>
 
-### 📫 Connect With Me
+### 🔧 Tools & Platforms
 
-- LinkedIn: www.linkedin.com/in/gihan-maduranga-625142306
-- Behance: https://www.behance.net/gihanmaduranga2
-- Email: www.gihanmaduranga7878@gmail.com
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,canva" />
+</p>
 
+### 🤖 AI-Powered Development
+
+- AI-assisted coding
+- AI-powered design workflows
+- Exploring vibe coding tools
+- AI-assisted problem solving
+
+---
+
+## 🚀 Featured Projects
+
+### 1. LKworkers.lk – Full-Stack Academic Project
+
+A Sri Lankan worker-hiring platform designed to connect customers with local physical and digital service providers.
+
+**Technologies:** React.js, Node.js, Express.js, MySQL, CSS3
+
+- Customer and worker functionality
+- Service discovery and hiring workflow
+- User authentication and role management
+- Full-stack web application development
+
+🔗 **[View GitHub Repository](https://github.com/Xgihan/LKworkers)**
+
+### 2. LKworkers.lk – UI/UX Redesign
+
+A separate UI/UX design project based on the original academic application, redesigned approximately five months after the initial development.
+
+- Modern user interface
+- User journey and workflow design
+- Service discovery and worker profiles
+- Figma-based UI/UX design
+
+🎨 **[Explore My Behance Portfolio](https://www.behance.net/gihanmaduranga2)**
+
+### 3. Privault – Security App
+
+A UI/UX concept focused on creating a modern and user-friendly security application.
+
+- User-friendly interface design
+- Security-focused user experience
+- PIN setup and recovery flows
+- Figma prototyping
+
+🎨 **[Explore My Behance Portfolio](https://www.behance.net/gihanmaduranga2)**
+
+### 4. Travel Website – Landing Page
+
+A modern travel website landing page design created using Figma.
+
+- Modern landing page layout
+- Visual hierarchy and typography
+- Responsive design concepts
+
+🎨 **[Explore My Behance Portfolio](https://www.behance.net/gihanmaduranga2)**
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Xgihan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xgihan&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Xgihan&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gihan-maduranga-625142306">
+    <img src="https://img.shields.io/badge/LinkedIn-Gihan_Maduranga-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.behance.net/gihanmaduranga2">
+    <img src="https://img.shields.io/badge/Behance-My_Portfolio-1769FF?style=for-the-badge&logo=behance" />
+  </a>
+  <a href="mailto:gihanmaduranga7878@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>💡 Design with purpose. Build with passion. Keep learning.</b>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile!
+</p>
